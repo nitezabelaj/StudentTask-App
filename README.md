@@ -1,2 +1,2 @@
-# StudentTask Demo
-Simple student task manager project
+# CloudTool Demo
+Powered by Microsoft Azure
